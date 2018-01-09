@@ -1,4 +1,4 @@
-# Geography 388 - Geographical information Systems
+# Geography 388 - Introduction to GIS
 
 ---
 ##### Instructor: Yi Qiang <br/>Email: yiqiang@hawaii.edu <br/>Office: Saunders Hall 416, (Tel) 956-7526 <br/>Office hours:  Tuesday 1-3pm, Saunders 416
