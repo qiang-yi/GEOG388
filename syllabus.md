@@ -5,7 +5,7 @@
 
 ##### Teaching Assistant: TBD
 
-##### Course website:<br/> http://laulima.hawaii.edu (for readings and assignments)<br/>https://github.com/qiang-yi/GEOG104 (for syllabus and code)
+##### Course website:<br/> http://laulima.hawaii.edu (for readings and assignments)
 
 ##### Class time: Monday&Wednesday 1:30PM to 2:45PM <br/>Classroom: Physical Sciences Building 310 
 
