@@ -66,9 +66,9 @@ The final lab is different from previous labs in that you will have an opportuni
 |Wk 1|Mon: Introductions of course, requirements, instructor & students <br> Wed: Intro to GIS|
 |Wk 2|Mon: Martin Luther King Day <br> Wed: Lab 1: Intro to ArcGIS |
 |Wk 3|Mon: Vector data model <br> Wed: Lab 2: Creating vector data in ArcGIS|
-|Wk 4|Mon: Spatial topology and relations <br> Wed: Lab 3: Manipulating vector data in ArcGIS|
-|Wk 5|Mon: Review coordinate systems and map projections <br> Wed: Lab4: Transformations of projections, datum and coordinate systems in GIS |
-|Wk 6| Mon: GIS databases, table manipulation, query and join <br> Wed: Lab 5: Join and query data in ArcGIS|
+|Wk 4|Mon: Spatial topology and relations <br> Wed: Lab 3: Manipulating Vector Data: spatial topology and query|
+|Wk 5| Mon: GIS databases, table manipulation, query and join <br> Wed: Lab 3: Manipulating Vector Data: spatial topology and query|
+|Wk 6|Mon: Review coordinate systems and map projections <br> Wed: Lab4: Transformations of projections, datum and coordinate systems in GIS|
 |Wk 7|Mon: Presidents' Day <Br> Wed: Spatial analysis of vector data I|
 |Wk 8|Mon: Mid-term review <br> Wed: Midterm exam|
 |Wk 9|Mon: Spatial analysis of vector data II <br> Lab 6: spatial analysis of vector data|
