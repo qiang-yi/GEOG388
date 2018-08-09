@@ -63,24 +63,23 @@ The final lab is different from previous labs in that you will have an opportuni
 ### Class Schedule
 |Week |   Topic|
 |---|---|
-|Wk 1|Mon: Introductions of course, requirements, instructor & students <br> Wed: Intro to GIS|
-|Wk 2|Mon: Martin Luther King Day <br> Wed: Lab 1: Intro to ArcGIS |
-|Wk 3|Mon: Vector data model <br> Wed: Lab 2: Creating vector data in ArcGIS|
-|Wk 4|Mon: Spatial topology and relations <br> Wed: Lab 3: Manipulating Vector Data: spatial topology and query|
-|Wk 5| Mon: GIS databases, table manipulation, query and join <br> Wed: Lab 3: Manipulating Vector Data: spatial topology and query|
-|Wk 6|Mon: Review coordinate systems and map projections <br> Wed: Lab4: Transformations of projections, datum and coordinate systems in GIS|
-|Wk 7|Mon: Presidents' Day <Br> Wed: Spatial analysis of vector data I|
-|Wk 8|Mon: Mid-term review <br> Wed: Midterm exam|
-|Wk 9|Mon: Spatial analysis of vector data II <br> Lab 6: spatial analysis of vector data|
-|Wk 10| Mon: Raster data model.<br> Wed: DEM and TIN|
-|Wk 11| Mon: Spatial analysis of raster data I <br> Wed: Lab 7: spatial analysis of raster data I|
-|Wk 12| Spring break|
-|Wk 13| Mon: Network analysis <br> Wed: Lab 8: network analysis|
-|Wk 14| Mon: Terrain analysis <br> Wed: Lab 9: terrain analysis|
-|Wk 15| Lab 10: Final Project|
-|Wk 16| Mon: Final review <br> Wed: Prep for final|
+|Wk 1 (Aug. 20)|Mon: Course Intro/Intro to GIS <br> Wed: Intro to ArcGIS vector data model|
+|Wk 2|Mon: Geospatial revolution <br> Wed: Lab 1: Intro to ArcGIS|
+|Wk 3 (Sept. 3)|Mon: Labor day <br> Wed: Vector data model|
+|Wk 4|Mon: Lab 2: Creating/editing vector data in ArcGIS <br> Wed: Spatial topology and relations|
+|Wk 5|Mon: Lab 3: Manipulating Vector Data: spatial topology <br> Mon: GIS databases, table manipulation, query and join|
+|Wk 6|Lab 4: Manipulating Vector Data: query, join, spatial query <br> Wed: Coordinate systems and map projections|
+|Wk 7 (Oct. 1)|Mon: Coordinate systems and map projections <br> Wed: Lab4: Transformations of projections, datum and coordinate systems in GIS |
+|Wk 8|Mon: Spatial analysis of vector data I <br> Spatial analysis of vector data II|
+|Wk 9|Mon: Lab 6: Spatial analysis of vector data <br> Mon: Mid-term review|
+|Wk 10| Mon: Midterm exam <br>Wed: Raster data model|
+|Wk 11| Mon: Spatial analysis of raster data I <br> Wed: Spatial analysis of raster data II|
+|Wk 12 (Nov. 5)| Mon: Lab 7: spatial analysis of raster data  <br> Wed: Lab 8: spatial analysis of raster data |
+|Wk 13 | Mon: Veterans Day <br> Wed: Terrain analysis|
+|Wk 14| Mon: Lab 9: terrain analysis <br> Wed: Cartographic Modeling
+|Wk 15| Mon: Lab 10: Final Project  <br>  Lab 10: Final Project |
+|Wk 16 (Dec. 3)| Mon: Final review <br>  Wed: Prep for final exam|
 |Wk 17| Final exam|
 
-**Important Note: This syllabus is tentative and may change. This is updated on Jan 2nd, 2018.**
 
-
+**Important Note: This syllabus is tentative and may change. This is updated on August 9nd, 2018.**
