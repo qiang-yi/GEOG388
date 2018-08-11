@@ -82,6 +82,6 @@ The final lab is different from previous labs in that you will have an opportuni
 |Wk 17| Final exam|
 
 
-**Important Note: This syllabus is tentative and may change. This is updated on August 9nd, 2018.**
+**Important Note: This syllabus is tentative and may change. This is updated on August 9th, 2018.**
 
 
