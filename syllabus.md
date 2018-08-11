@@ -3,11 +3,11 @@
 ---
 ##### Instructor: Yi Qiang <br/>Email: yiqiang@hawaii.edu <br/>Office: Saunders Hall 416, (Tel) 956-7526 <br/>Office hours:  Tuesday 1-3pm, Saunders 416
 
-##### Teaching Assistant: TBD
+##### Teaching Assistant: Tanya Torres (tanyakmt@hawaii.edu)
 
 ##### Course website:<br/> http://laulima.hawaii.edu (for readings and assignments)
 
-##### Class time: Monday&Wednesday 1:30PM to 2:45PM <br/>Classroom: Physical Sciences Building 310 
+##### Class time: Monday&Wednesday 10:30PM to 11:45PM <br/>Classroom: Physical Sciences Building 310 
 
 ### Overview
 This course is an introduction to geographical information systems, focusing on spatial data processing and analysis in the science and management of environmental and human resources.  Topics covered include GIS data structures, data sources, data collection, data quality, geodesy and map projections, spatial and tabular data analyses, digital elevation data and terrain analyses, cartographic modeling, and cartographic layout.  Laboratory exercises provide practical experiences that complement the theory covered in lectures. The goal of the course is to help students to gain a comprehensive understanding of GIS concepts and get started with using GIS in practice.
@@ -67,19 +67,21 @@ The final lab is different from previous labs in that you will have an opportuni
 |Wk 2|Mon: Geospatial revolution <br> Wed: Lab 1: Intro to ArcGIS|
 |Wk 3 (Sept. 3)|Mon: Labor day <br> Wed: Vector data model|
 |Wk 4|Mon: Lab 2: Creating/editing vector data in ArcGIS <br> Wed: Spatial topology and relations|
-|Wk 5|Mon: Lab 3: Manipulating Vector Data: spatial topology <br> Mon: GIS databases, table manipulation, query and join|
-|Wk 6|Lab 4: Manipulating Vector Data: query, join, spatial query <br> Wed: Coordinate systems and map projections|
+|Wk 5|Mon: Lab 3: Manipulating Vector Data: spatial topology <br> Wed: GIS databases, table manipulation, query and join|
+|Wk 6|Mon: Lab 4: Manipulating Vector Data: query, join, spatial query <br> Wed: Coordinate systems and map projections|
 |Wk 7 (Oct. 1)|Mon: Coordinate systems and map projections <br> Wed: Lab4: Transformations of projections, datum and coordinate systems in GIS |
-|Wk 8|Mon: Spatial analysis of vector data I <br> Spatial analysis of vector data II|
-|Wk 9|Mon: Lab 6: Spatial analysis of vector data <br> Mon: Mid-term review|
+|Wk 8|Mon: Spatial analysis of vector data I <br> Wed: Spatial analysis of vector data II|
+|Wk 9|Mon: Lab 6: Spatial analysis of vector data <br> Wed: Mid-term review|
 |Wk 10| Mon: Midterm exam <br>Wed: Raster data model|
 |Wk 11| Mon: Spatial analysis of raster data I <br> Wed: Spatial analysis of raster data II|
 |Wk 12 (Nov. 5)| Mon: Lab 7: spatial analysis of raster data  <br> Wed: Lab 8: spatial analysis of raster data |
 |Wk 13 | Mon: Veterans Day <br> Wed: Terrain analysis|
 |Wk 14| Mon: Lab 9: terrain analysis <br> Wed: Cartographic Modeling
-|Wk 15| Mon: Lab 10: Final Project  <br>  Lab 10: Final Project |
+|Wk 15| Mon: Lab 10: Final Project  <br>  Wed: Lab 10: Final Project |
 |Wk 16 (Dec. 3)| Mon: Final review <br>  Wed: Prep for final exam|
 |Wk 17| Final exam|
 
 
-**Important Note: This syllabus is tentative and may change. This is updated on August 9th, 2018.**
+**Important Note: This syllabus is tentative and may change. This is updated on August 9nd, 2018.**
+
+
