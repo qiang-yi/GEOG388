@@ -7,7 +7,7 @@
 
 ##### Course website:<br/> http://laulima.hawaii.edu (for readings and assignments)
 
-##### Class time: Monday&Wednesday 10:30PM to 11:45PM <br/>Classroom: Physical Sciences Building 310 
+##### Class time: Monday&Wednesday 10:30PM to 11:45PM <br/>Classroom: Agriculture Sciences Building 215 
 
 ### Overview
 This course is an introduction to geographical information systems, focusing on spatial data processing and analysis in the science and management of environmental and human resources.  Topics covered include GIS data structures, data sources, data collection, data quality, geodesy and map projections, spatial and tabular data analyses, digital elevation data and terrain analyses, cartographic modeling, and cartographic layout.  Laboratory exercises provide practical experiences that complement the theory covered in lectures. The goal of the course is to help students to gain a comprehensive understanding of GIS concepts and get started with using GIS in practice.
