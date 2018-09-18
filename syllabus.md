@@ -68,7 +68,7 @@ The final lab is different from previous labs in that you will have an opportuni
 |Wk 3 (Sept. 3)|Mon: Labor day <br> Wed: Vector data model|
 |Wk 4|Mon: Lab 2: Creating/editing vector data in ArcGIS <br> Wed: Spatial topology and relations|
 |Wk 5|Mon: Lab 3: Manipulating Vector Data: spatial topology <br> Wed: GIS databases, table manipulation|
-|Wk 6|Mon: Lab 4: Manipulating Vector Data: query, join, spatial query <br> Wed: Coordinate systems and map projections|
+|Wk 6|Mon: Coordinate systems and map projections <br> Wed: Lab 4: Manipulating Vector Data: query, join, spatial query|
 |Wk 7 (Oct. 1)|Mon: Coordinate systems and map projections <br> Wed: Lab4: Transformations of projections, datum and coordinate systems in GIS |
 |Wk 8|Mon: Spatial analysis of vector data I <br> Wed: Spatial analysis of vector data II|
 |Wk 9|Mon: Lab 6: Spatial analysis of vector data <br> Wed: Mid-term review|
