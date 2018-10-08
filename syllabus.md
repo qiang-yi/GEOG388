@@ -69,14 +69,14 @@ The final lab is different from previous labs in that you will have an opportuni
 |Wk 4|Mon: Lab 2: Creating/editing vector data in ArcGIS <br> Wed: Spatial topology and relations|
 |Wk 5|Mon: Lab 3: Manipulating Vector Data: spatial topology <br> Wed: GIS databases, table manipulation|
 |Wk 6|Mon: Coordinate systems and map projections <br> Wed: Lab 4: Manipulating Vector Data: query, join, spatial query|
-|Wk 7 (Oct. 1)|Mon: Coordinate systems and map projections <br> Wed: Lab4: Transformations of projections, datum and coordinate systems in GIS |
-|Wk 8|Mon: Spatial analysis of vector data I <br> Wed: Spatial analysis of vector data II|
-|Wk 9|Mon: Lab 6: Spatial analysis of vector data <br> Wed: Mid-term review|
-|Wk 10| Mon: Midterm exam <br>Wed: Raster data model|
+|Wk 7 (Oct. 1)|Mon: Lab4: Transformations of projections, datum and coordinate systems in GIS <br>Wed: Spatial analysis of vector data I |
+|Wk 8|Mon: Spatial analysis of vector data II <br> Wed: Mid-term review|
+|Wk 9|Mon: Lab 6: Spatial analysis of vector data <br> Wed: Mid-term Exame|
+|Wk 10| Mon: Raster data model <br>Wed: Lab 7: Getting to know raster data |
 |Wk 11| Mon: Spatial analysis of raster data I <br> Wed: Spatial analysis of raster data II|
-|Wk 12 (Nov. 5)| Mon: Lab 7: spatial analysis of raster data  <br> Wed: Lab 8: spatial analysis of raster data |
-|Wk 13 | Mon: Veterans Day <br> Wed: Terrain analysis|
-|Wk 14| Mon: Lab 9: terrain analysis <br> Wed: Cartographic Modeling
+|Wk 12 (Nov. 5)| Mon: Lab 8: Spatial Analyses on Raster Data  <br> Wed: Terrain analysis |
+|Wk 13 | Mon: Veterans Day <br> Wed: Lab 9: Terrain analysis|
+|Wk 14| Mon: Cartographic Modeling <br> Wed: Lab 10: Cost Surface Analysis |
 |Wk 15| Mon: Lab 10: Final Project  <br>  Wed: Lab 10: Final Project |
 |Wk 16 (Dec. 3)| Mon: Final review <br>  Wed: Prep for final exam|
 |Wk 17| Final exam|
