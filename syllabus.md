@@ -76,8 +76,8 @@ The final lab is different from previous labs in that you will have an opportuni
 |Wk 11| Mon: Spatial analysis of raster data I <br> Wed: Spatial analysis of raster data II|
 |Wk 12 (Nov. 5)| Mon: Lab 8: Spatial Analyses on Raster Data  <br> Wed: Terrain analysis |
 |Wk 13 | Mon: Veterans Day <br> Wed: Lab 9: Terrain analysis|
-|Wk 14| Mon: Cartographic Modeling <br> Wed: Lab 10: Cost Surface Analysis |
-|Wk 15| Mon: Lab 10: Final Project  <br>  Wed: Lab 10: Final Project |
+|Wk 14| Mon: Lab 10: Cost Surface Analysis <br> Wed: Cartographic Modeling |
+|Wk 15| Mon: Final Project  <br>  Wed: Final Project |
 |Wk 16 (Dec. 3)| Mon: Final review <br>  Wed: Prep for final exam|
 |Wk 17| Final exam|
 
