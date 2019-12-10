@@ -3,7 +3,7 @@
 ---
 ##### Instructor: Yi Qiang <br/>Email: yiqiang@hawaii.edu <br/>Office: Saunders Hall 416, (Tel) 956-7526 <br/>Office hours:  Tuesday 1-3pm, Saunders 416
 
-##### Teaching Assistant: Tanya Torres (tanyakmt@hawaii.edu)
+##### Teaching Assistant: N/A
 
 ##### Course website:<br/> http://laulima.hawaii.edu (for readings and assignments)
 
